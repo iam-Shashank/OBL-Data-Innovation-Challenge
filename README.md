@@ -10,6 +10,8 @@ Objective of the problem: The objective of the problem is to predict values “P
 Training File: All features including the target would be present in this file. Machine learning model would trained using this file. This file is to be used for training and validation.
 Test File: This file contains all features, but the target variable. Prediction is to be made for all tuples in the test file. The predicted values are to be written to a CSV file along with ID and uploaded.
 Sample Submission: Sample submission is an example of how the actual submission file should be like
+
+
 **Description of attributes:**
 
 Area(total): Total area of the plot.
