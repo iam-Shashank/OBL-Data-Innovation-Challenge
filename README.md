@@ -1,10 +1,10 @@
 # HUL
 Hindustan Unilever Hackathon
 
-Machine Learning Challenge
+**Machine Learning Challenge**
 Objective of the problem: The objective of the problem is to predict values “current price” attribute from the given features of the Test data. The predictions are to be written to a CSV file along with ID which is the unique identifier for each tuple. Please view the sample submission file to understand how the submission file is to be written. Please upload the submission file to get a score. 
 
-Description of files:
+**Description of files:**
 
 V.id: Unique vehicle id
 
@@ -32,10 +32,10 @@ Current price: predicted price of the vehicle .
 
 
 
-Evaluation Criteria: Normalised root of MSE . All values would be normalised to 100. Any member of a team may make a submission and 15 submissions are allowed per team. All teams must submit their projects to the code submission stage.
+**Evaluation Criteria:** Normalised root of MSE . All values would be normalised to 100. Any member of a team may make a submission and 15 submissions are allowed per team. All teams must submit their projects to the code submission stage.
 
 
-Evaluation Algorithm
+**Evaluation Algorithm**
 
 Root Mean Square Error (RMSE)
 normalization_constant 100000
