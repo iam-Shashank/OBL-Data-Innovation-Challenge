@@ -2,7 +2,7 @@
 Hindustan Unilever Hackathon
 
 **Machine Learning Challenge**
-Objective of the problem: The objective of the problem is to predict values “current price” attribute from the given features of the Test data. The predictions are to be written to a CSV file along with ID which is the unique identifier for each tuple. Please view the sample submission file to understand how the submission file is to be written. Please upload the submission file to get a score. 
+<b>Objective of the problem:</b> The objective of the problem is to predict values “current price” attribute from the given features of the Test data. The predictions are to be written to a CSV file along with ID which is the unique identifier for each tuple. Please view the sample submission file to understand how the submission file is to be written. Please upload the submission file to get a score. 
 
 **Description of files:**
 
