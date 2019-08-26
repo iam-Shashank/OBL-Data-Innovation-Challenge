@@ -9,25 +9,25 @@ Sample Submission: Sample submission is an example of how the actual submission 
 
 **Description of attributes:**
 
-Area(total): Total area of the plot.
+* Area(total): Total area of the plot.
 
-Nbedrooms: Number of bedroom in the house.
+* Nbedrooms: Number of bedroom in the house.
 
-Nwashrooms: Number of washroom in the house.
+* Nwashrooms: Number of washroom in the house.
 
-Roof(Area): Total area of the terrace
+* Roof(Area): Total area of the terrace
 
-Lawn(Area): Area of the lawn including garden and parking
+* Lawn(Area): Area of the lawn including garden and parking
 
-Nfloor: Number of floors in the house
+* Nfloor: Number of floors in the house
 
-API: Air purity index api is in percentage for example if api is 85 it means its 85% of the standard api for the city.
+* API: Air purity index api is in percentage for example if api is 85 it means its 85% of the standard api for the city.
 
-ANB: Amenities near by amenities like hospital, park , multiplex , malls etc within 2 miles.
+* ANB: Amenities near by amenities like hospital, park , multiplex , malls etc within 2 miles.
 
-Grade: grade is provided by government and it depends on the age and condition of the house. Higher the grade better the condition is.
+* Grade: grade is provided by government and it depends on the age and condition of the house. Higher the grade better the condition is.
 
-Price: current estimated price of the house as suggested by the company. 
+* Price: current estimated price of the house as suggested by the company. 
 
 
 **Evaluation Criteria:** Normalised root of MSE . All values would be normalised to 100. Any member of a team may make a submission and 15 submissions are allowed per team. All teams must submit their projects to the code submission stage.
