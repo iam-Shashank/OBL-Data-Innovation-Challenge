@@ -5,8 +5,8 @@
 * Final Hackathon Round to be held on 5th-6th October.
 * Team :
 	* [Shashank Agrawal](https://github.com/iam-Shashank)
-	* Ashish Ohri 
+	* [Ashish Ohri](https://github.com/AshishOhri) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ2OTY4NF19
+eyJoaXN0b3J5IjpbMjE1Mjg0NTg3XX0=
 -->
