@@ -7,7 +7,7 @@
 	* [Ashish Ohri](https://github.com/AshishOhri) 
 * Rank: 18 | Score: 99.915341
 * **Result: Qualified for the Final Round.**
-* Final Hackathon Round to be held on 5th-6th October.
+* Final Hackathon Round yet to be held.
 
 Competition Official Website: [Click Here](https://skillenza.com/challenge/obl-data-innovation-challenge)
 
